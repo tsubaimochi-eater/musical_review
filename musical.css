@@ -43,8 +43,8 @@ ul {
 }
 
 table {
-    margin-top: 150px;
-    margin-left: 70px;
+    margin-top: auto;
+    
     width: auto;
 
     border-collapse: collapse;
